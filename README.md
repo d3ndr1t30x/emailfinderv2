@@ -1,5 +1,6 @@
 # emailFinder - Email Extraction Tool
-emailFinder is a Python-based web scraping tool designed to extract email addresses from websites or multiple URLs listed in a file. 
+emailFinder is a Python-based web scraping tool designed to extract email addresses from websites or multiple URLs listed in a file. Based on the original tool here: https://github.com/past3ll3/emailFinder
+I've removed animations and added an option to write the ouput emails to a text file.
 
 This email scraper crawls through website pages, parses content, and efficiently extracts email addresses.
 
